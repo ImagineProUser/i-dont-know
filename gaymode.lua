@@ -20,7 +20,7 @@ game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.Frame.BackgroundColo
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.BackgroundColor3 = Color3.new(0.945098, 0.63, 1)
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.TopLine.BackgroundColor3 = Color3.new(0.945098, 0.63, 1)
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.Swagmode.TextColor3 = Color3.new(1, 0.109804, 0.988235)
-game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.Swagmode.Text = "LOL GAY MODE!!!"
+game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.Swagmode.Text = "Homiesexual Mode"
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.Swagmode.TextSize = 17
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.TabsFrame.HomeButton.BackgroundColor3 = Color3.new(1, 0.509804, 0.988235)
 game:GetService("CoreGui").Swagmode.SwagmodeFrame.MenuFrame.TabsFrame.MainButton.BackgroundColor3 = Color3.new(1, 0.509804, 0.988235)
